@@ -1,7 +1,6 @@
 package fr.pantheonsorbonne.miage;
 
 import fr.pantheonsorbonne.miage.game.tictactoe.TicTacToe;
-import fr.pantheonsorbonne.miage.game.tictactoe.AbstractTicTacToe;
 import fr.pantheonsorbonne.miage.game.tictactoe.TicTacToeImpl;
 import org.junit.jupiter.api.Test;
 

@@ -16,7 +16,7 @@ public class TicTacToeImpl extends AbstractTicTacToe{
     @Override
     public void addRand(char c) throws FullBoardException {
 
-        boolean empty = false;
+        
         if (isFull()) {
             throw new FullBoardException();
         }
