@@ -1,4 +1,4 @@
-package fr.pantheonsorbonne.miage;
+package fr.pantheonsorbonne.miage.game.tictactoe.command;
 
 public enum Command {
     BOARD,

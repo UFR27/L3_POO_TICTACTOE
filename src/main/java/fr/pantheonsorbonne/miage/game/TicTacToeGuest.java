@@ -1,6 +1,6 @@
 package fr.pantheonsorbonne.miage.game;
 
-import fr.pantheonsorbonne.miage.Command;
+import fr.pantheonsorbonne.miage.game.tictactoe.command.Command;
 import fr.pantheonsorbonne.miage.Facade;
 import fr.pantheonsorbonne.miage.PlayerFacade;
 import fr.pantheonsorbonne.miage.game.tictactoe.FullBoardException;

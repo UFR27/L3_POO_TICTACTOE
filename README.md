@@ -28,4 +28,7 @@ La partie est termin√©e lorsqu'aucun des joueurs ne peut plus cocher de cases (√
 
 ![protocole tictactoe](doc/protocole.png)
 
+# Diagramme des classes
+
+![](doc/class_diagram.png)
 
